@@ -8,9 +8,7 @@
 
 ----------------------------------------------------------------------------------------------
 
-<p align="center">
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SC0R9I0N&layout=compact&theme=radical)
-</p>
 
 -----------------------------------------------------------------------------------------------
 
