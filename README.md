@@ -16,10 +16,8 @@
 
 
 Current Timeline:
-- Finish my Rust pong project
-- Finish DnD character creator
-- Work on other Rust specific projects
-- Finish up any unfinished projects that currently have code written
-- Work on non-Rust projects
+- Finish Rust Pong project
+- Transfer my DND Character Creator project to Rust rather than Bash, develop it into an app
+- Work on StegoForge, hopefully get v1 pushed out by the end of the year
 
 My goal is to gain proficiency in Rust this year, so I will primarily be focusing on my development with Rust and shifting projects where I can. If a project is currently in a different language, I will try to convert it to Rust (given that the project does not also exist in Rust within my repos). If the language of a project changes to Rust, then that change will be documented. Any projects that have already been partly finished will remain in their current language and will have a secondary repo that is specific to Rust.
