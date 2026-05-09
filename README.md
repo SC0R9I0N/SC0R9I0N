@@ -50,7 +50,6 @@ I'm currently starting an internship with General Dynamics Mission Systems as a 
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc0r9i0n&layout=compact&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc0r9i0n"/>
 </p>
 
 ---
